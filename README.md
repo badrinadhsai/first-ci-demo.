@@ -1,2 +1,2 @@
 # -student-result-ml-ci.
-3.Student Result Prediction ML model with GitHub Actions CI.
+Simple Python CI demonstration using GitHub Actions.
